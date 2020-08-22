@@ -5,11 +5,13 @@ const styles = StyleSheet.create({
     marginTop: Platform.OS === 'ios' ? 20 : 0,
     padding: 10,
     borderBottomWidth: 1,
+    width: '100%',
     borderColor: '#bbb'
   },
   rowContainer: {
     flexDirection: 'row',
-    alignItems: 'center'
+    alignItems: 'center',
+    justifyContent: 'center'
   },
   image: {
     height: 30,
