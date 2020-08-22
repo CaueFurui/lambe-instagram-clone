@@ -6,10 +6,25 @@ import image from './assets/imgs/fence.jpg'
 
 class App extends Component {
   render () {
+    const comments = [
+      {
+        nickname: 'User',
+        comment: 'Lorem Ipsum'
+      },
+      {
+        nickname: 'User',
+        comment: 'Lorem Ipsum'
+      },
+      {
+        nickname: 'User',
+        comment: 'Lorem Ipsum'
+      }
+    ]
+
     return (
       <View style={{ flex: 1 }}>
         <Header />
-        <Post image={image}/>
+        <Post image={image} comments={comments}/>
       </View>
     )
   }
