@@ -32,6 +32,8 @@
 		66EA9A8FF7C94F18984FEDBF /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B746FFE13BE140D2AA71251F /* Octicons.ttf */; };
 		F2C24B65E4C7409D949E5BCE /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7C21FD7C47E544F388D61ABC /* SimpleLineIcons.ttf */; };
 		6FA251F2BEF342A3AC9F014B /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D62A0D95FE9F4F0887C128D2 /* Zocial.ttf */; };
+		3C6C511B52D14D98BE8F15C9 /* Raleway.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D205E03D38B94B68A888F171 /* Raleway.ttf */; };
+		BF48E1FC086C45079A035475 /* shelter.otf in Resources */ = {isa = PBXBuildFile; fileRef = BE931C2BE49E4016A1C2D1D3 /* shelter.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -83,6 +85,8 @@
 		B746FFE13BE140D2AA71251F /* Octicons.ttf */ = {isa = PBXFileReference; name = "Octicons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		7C21FD7C47E544F388D61ABC /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; name = "SimpleLineIcons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		D62A0D95FE9F4F0887C128D2 /* Zocial.ttf */ = {isa = PBXFileReference; name = "Zocial.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D205E03D38B94B68A888F171 /* Raleway.ttf */ = {isa = PBXFileReference; name = "Raleway.ttf"; path = "../assets/fonts/Raleway.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BE931C2BE49E4016A1C2D1D3 /* shelter.otf */ = {isa = PBXFileReference; name = "shelter.otf"; path = "../assets/fonts/shelter.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -209,6 +213,8 @@
 				B746FFE13BE140D2AA71251F /* Octicons.ttf */,
 				7C21FD7C47E544F388D61ABC /* SimpleLineIcons.ttf */,
 				D62A0D95FE9F4F0887C128D2 /* Zocial.ttf */,
+				D205E03D38B94B68A888F171 /* Raleway.ttf */,
+				BE931C2BE49E4016A1C2D1D3 /* shelter.otf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -368,6 +374,8 @@
 				66EA9A8FF7C94F18984FEDBF /* Octicons.ttf in Resources */,
 				F2C24B65E4C7409D949E5BCE /* SimpleLineIcons.ttf in Resources */,
 				6FA251F2BEF342A3AC9F014B /* Zocial.ttf in Resources */,
+				3C6C511B52D14D98BE8F15C9 /* Raleway.ttf in Resources */,
+				BF48E1FC086C45079A035475 /* shelter.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
