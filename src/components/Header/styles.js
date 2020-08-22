@@ -18,9 +18,9 @@ const styles = StyleSheet.create({
   },
   title: {
     color: '#000',
-    fontFamily: 'Raleway',
+    fontFamily: 'shelter',
     height: 30,
-    fontSize: 24
+    fontSize: 28
   }
 })
 
